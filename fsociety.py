@@ -1,12 +1,18 @@
 wel2 = """
 +----------------------------------------------+
-| Name:        Youssef V1
-| Namegrop:     MoussaUfonet
-| Author:     hacker
-| Created:     17/10/2020
-| Copyright:   (c) hacker ghost 2020
-| Licence:     <>
+| Name:      FSOCIETY V1.3.0
+| Namegrop:  FSOCIETY ARAB
+| Author:    MOUSSA BOLA
+| Created:   29/4/2020
+| Copyright: (c) FSOCIETY 2020
+| Licence:     <> ZERO DEY
 +----------------------------------------------+
+███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
+██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
+█████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝ 
+██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝ 
+██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║  
+╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝  
 """
 
 import os
@@ -87,12 +93,12 @@ def search():
 def welcome():
     wel = """
 +----------------------------------------------+
-| Name:        Youssef V1
-| Name grop:   MoussaUfonet  
-| Author:      hacker
-| Created:     17/10/2020
-| Copyright:   (c) hacker 2012
-| Licence:     <>
+| Name:        FSOCIETY V1.3.0
+| Name grop:   FSOCIETY ARAB 
+| Author:      MOUSSA BOLA
+| Created:     29/4/2020
+| Copyright:   (c) FSOCIETY 2020
+| Licence:     ZERO DEY
 +----------------------------------------------+
 """
     total = open(passwordlist,"r")
